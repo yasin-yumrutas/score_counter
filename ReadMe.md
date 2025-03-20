@@ -1,0 +1,1 @@
+burada herhangi bir oyun oynarken kişilerin puanlarını tutan bir skala projemiz var
